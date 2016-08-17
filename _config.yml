@@ -6,9 +6,9 @@ color:
   saturation: 0.6146756117232144
   rhythmicContrast: 0.6742620663717389
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#C2CDF0'
+    - '#20008B'
+    - '#8080FF'
+    - '#00FFFF'
+    - '#5555AA'
 name: Stratum II
